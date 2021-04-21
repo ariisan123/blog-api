@@ -1,5 +1,12 @@
 # Blog API
 
+## This is an API built with:
+
+- Node
+- Express
+- MySQL
+- Sequelize
+
 ## Installation.
 
 ```bash
